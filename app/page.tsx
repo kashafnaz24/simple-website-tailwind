@@ -5,7 +5,7 @@ export default function hello (){
     return(
         <div className="flex justify-evenly mt-[60px] ml-10">
         <div className="text-center">
-        /* eslint-disable react/no-unescaped-entities */
+        {/* eslint-disable react/no-unescaped-entities */}
 
         <h1 className="text-neutral-100 p-20 pb-2 font-[serif] text-6xl md:text-4xl lg:text-6xl">
             Hello! Next.js
